@@ -1,0 +1,52 @@
+Question: How metalyse is different from actilyse?
+Answer: Based on the provided context, here are the differences between Metalyse and Actilyse:
+
+### Metalyse:
+- **Form**: Powder and solvent for solution for injection.
+- **Active Ingredient**: Tenecteplase.
+- **Pharmacotherapeutic Group**: Thrombolytic agents.
+- **Mechanism of Action**: Tenecteplase is a recombinant fibrin-specific plasminogen activator that helps to dissolve blood clots.
+- **Indications**: Used to treat myocardial infarctions (heart attacks) within 6 hours after the onset.
+- **Administration**:
+  - Administered intravenously in about 10 seconds.
+  - Should not be administered in a line containing glucose as it is incompatible with glucose solution.
+  - The line should be flushed after injection for proper delivery.
+  - Any unused reconstituted solution should be discarded.
+- **Available Doses**: Metalyse 8000 units (40 mg) and Metalyse 10,000 units (50 mg) powder and solvent for solution for injection.
+
+### Actilyse:
+- **Form**: Powder and solvent for solution for injection and infusion.
+- **Active Ingredient**: Alteplase.
+- **Pharmacotherapeutic Group**: Not specified in the provided context.
+- **Mechanism of Action**: Alteplase is a recombinant human tissue-type plasminogen activator that activates plasminogen directly to plasmin. When administered intravenously, it remains relatively inactive in the circulatory system until it binds to fibrin, where it is activated and induces the conversion of plasminogen to plasmin, leading to the dissolution of fibrin.
+- **Indications**: Not specified in the provided context.
+
+### Summary:
+- **Active Ingredients**: Metalyse contains tenecteplase, while Actilyse contains alteplase.
+- **Mechanism of Action**: Metalyse (tenecteplase) is a fibrin-specific plasminogen activator, while Actilyse (alteplase) activates plasminogen directly to plasmin and is activated upon binding to fibrin.
+- **Administration**: Metalyse is administered as a single intravenous bolus over 10 seconds and is incompatible with glucose solution. Actilyse is available for injection and infusion, but specific administration details are not provided in the context.
+- **Additional Information**: Detailed information about Metalyse is available on the European Medicines Agency website.
+
+
+Question: Compare Metalyse and Actilyse fibrin-binding selectivity, receptor interaction profiles and clinical implications for actue ischemic stroke treatment,  including dose administration protocol
+
+Answer: Based on the provided context, here is a comparison between Metalyse and Actilyse regarding fibrin-binding selectivity, receptor interaction profiles, and clinical implications for acute ischemic stroke treatment, including dose administration protocol:
+
+### Metalyse:
+- **Active Ingredient**: Tenecteplase.
+- **Pharmacotherapeutic Group**: Thrombolytic agents.
+- **Mechanism of Action**: Tenecteplase is a recombinant fibrin-specific plasminogen activator. It helps to dissolve blood clots by binding to fibrin and converting plasminogen to plasmin.
+- **Clinical Implications for Acute Ischemic Stroke**:
+  - Metalyse is used in adults to treat stroke caused by a blood clot in an artery of the brain (acute ischemic stroke) when it has been less than 4.5 hours since the patient was last seen without the symptoms of the current stroke.
+  - The benefit-risk of tenecteplase treatment should be carefully evaluated in patients weighing 50 kg or less due to limited availability of data.
+  - The 40 mg and 50 mg vials of tenecteplase are not intended for use in acute ischemic stroke.
+- **Dose Administration Protocol**:
+  - Metalyse should be administered based on body weight, with a maximum single dose of 5000 units (25 mg tenecteplase).
+  - The volume required to administer the correct total dose can be calculated based on the patient's body weight.
+
+### Actilyse:
+- **Active Ingredient**: Alteplase.
+- **Pharmacotherapeutic Group**: Antithrombotic agents, ATC code: B01AD02.
+- **Mechanism of Action**: Alteplase is a recombinant human tissue-type plasminogen activator. It activates plasminogen directly to plasmin. When administered intravenously, it remains relatively inactive in the circulatory system until it binds to fibrin, where it is activated and induces the conversion of plasminogen to plasmin, leading to the dissolution of fibrin.
+- **Clinical Implications for Acute Ischemic Stroke**: The context does not provide specific details about the clinical implications for Actilyse in acute ischemic stroke treatment.
+- **Dose Administration Protocol**: The context does not provide specific details about the dose administration protocol for Actilyse.
